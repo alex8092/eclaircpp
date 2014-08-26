@@ -1,0 +1,4 @@
+projects:
+    folder: projects
+    test:
+        host: localhost:8080
